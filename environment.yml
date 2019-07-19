@@ -1,5 +1,6 @@
 name: mrnet
 channels:
+1
   - pytorch
   - defaults
 dependencies:
